@@ -325,7 +325,7 @@ section {
 
 /* Slide show */
 .slideshow-container {
-  max-width: 650px;
+  max-width: 450px;
   position: relative;
   margin: auto;
 }
